@@ -1,0 +1,41 @@
+iso,glottocode,language,lw_perc,num_speakers,continent,borrowing_type
+rmc,west2376,Selice Romani,0.63,1350,europe,very_high
+rif,tari1263,Tarifiyt Berber,0.53,1423000,africa,very_high
+gue,guri1247,Gurindji,0.48,590,oceania,high
+ron,roma1327,Romanian,0.43,24150840,europe,high
+srm,sara1340,Saramaccan,0.42,17100,s_america,high
+eng,stan1293,English,0.42,983522920,europe,high
+cwg,chew1245,Ceq Wong,0.38,460,asia,high
+jpn,nucl1643,Japanese,0.36,128204860,asia,high
+ind,indo1316,Indonesian,0.35,198395070,asia,high
+tbc,taki1248,Takia,0.32,40000,oceania,high
+aqc,arch1244,Archi,0.32,970,europe,high
+kap,bezh1248,Bezhta,0.32,6800,europe,high
+sah,yaku1245,Sakha,0.31,450000,asia,high
+qvi,imba1240,Imbabura Quechua,0.30,150000,s_america,high
+swh,swah1253,Swahili,0.30,98292010,africa,high
+sjd,kild1236,Kildin Saami,0.28,350,europe,high
+vie,viet1252,Vietnamese,0.27,68058620,asia,high
+yaq,yaqu1251,Yaqui,0.27,18030,n_america,high
+tha,thai1261,Thai,0.26,60548550,asia,high
+hau,haus1257,Hausa,0.24,46874100,africa,low
+arn,mapu1245,Mapudungun,0.24,258410,s_america,low
+mww,hmon1333,White Hmong,0.23,1698400,asia,low
+dsb,lowe1385,Lower Sorbian,0.22,6670,europe,low
+knc,cent2050,Kanuri,0.21,4122500,africa,low
+nld,dutc1256,Dutch,0.19,22163020,europe,low
+plt,plat1254,Malagasy,0.19,18138380,africa,low
+haw,hawa1245,Hawaiian,0.18,2000,n_america,low
+tzo,tzot1264,Zinacantán Tzotzil,0.17,235000,n_america,low
+mzh,wich1264,Wichí,0.16,15000,s_america,low
+car,gali1262,Kali'na,0.16,7358,s_america,low
+gwd,gaww1239,Gawwada,0.15,69970,africa,low
+kek,kekc1242,Q'eqchi',0.15,817600,n_america,low
+irk,iraq1241,Iraqw,0.15,462000,africa,low
+crs,sese1246,Seychelles Creole,0.13,72700,africa,low
+jup,hupd1244,Hup,0.12,1240,s_america,low
+orh,oroq1238,Oroqen,0.11,1200,asia,low
+ote,mezq1235,Otomi,0.11,88500,n_america,low
+ket,kett1243,Ket,0.10,210,asia,low
+nmm,mana1288,Manange,0.10,390,asia,very_low
+cmn,mand1415,Mandarin Chinese,0.02,1091782930,asia,very_low
